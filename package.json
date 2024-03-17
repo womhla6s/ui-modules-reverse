@@ -1,0 +1,28 @@
+{
+  "name": "ui-modules-reverse",
+  "version": "1.0.0",
+  "description": "ui-modules-reverse on frontend relbas",
+  "main": "ui-modules-reverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "module",
+    "bootstrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Womhla6s/ui-modules-reverse.git"
+  },
+  "author": "Womhla6s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Womhla6s/ui-modules-reverse/issues"
+  },
+  "homepage": "https://github.com/Womhla6s/ui-modules-reverse#readme",
+  "dependencies": {
+    "ui-modules-rl": "^1.0.0"
+  }
+}
